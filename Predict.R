@@ -6,9 +6,9 @@ library(shinycssloaders)
 
 setwd("C:/Users/rkrishnaramanujam/Documents/final")
 
-gram2<- readRDS("gramTwo.RData")
-gram3<- readRDS("gramTri.RData")
-gram4<- readRDS("gramFour.RData")
+gram2<- readRDS("bigram.RData")
+gram3<- readRDS("Trigram.RData")
+gram4<- readRDS("Quadgram.RData")
 
 
 
